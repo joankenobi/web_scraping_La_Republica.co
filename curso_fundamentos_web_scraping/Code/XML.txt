@@ -1,0 +1,4 @@
+LINKS='//div/h2/a/@href'
+TITTLE='//h2/span/text()'
+SUMMARY='//div[@class="lead"]/p/text()'
+CONTENT='//div[@class="html-content"]/p//text()'
