@@ -27,11 +27,11 @@ Computador hace peticion y data center proporciona data.
 
 **Cabeceras HTTP**.
 
-![Cabeceras HTTP](curso_fundamentos_web_scraping/Notes/scr/Cabeceras%20HTTP.pni)
+![Cabeceras HTTP](scr/Cabeceras%20HTTP.png)
 
 **Protocolos que crean la web**.
 
-![Protocolos que crean la web](curso_fundamentos_web_scraping/Notes/scr/protocolos_crean_la_web.pn)
+![Protocolos que crean la web](scr/protocolos_crean_la_web.png)
 
 ### Clase 6 Robots.txt: permisos y consideraciones al hacer web scraping
 
@@ -282,11 +282,11 @@ Note: Using '!=' is not the same as using 'not'.
 
 - Ejemplo de uso:
 
-![Ejemplo](curso_fundamentos_web_scraping/Notes/scr/ejemplo_uso_xpath_1.png)
+![Ejemplo](scr/ejemplo_uso_xpath_1.png)
 
 - Ejemplo de uso:
 
-![Ejemplo](curso_fundamentos_web_scraping/Notes/scr/ejemplo_uso_xpath_2.png)
+![Ejemplo](scr/ejemplo_uso_xpath_2.png)
 
 ### Clase 12 Wildcard en Xpath
 
@@ -302,8 +302,8 @@ Note: Using '!=' is not the same as using 'not'.
 
 - Ejemplo de uso de `*`:
 
-![Ejemplo](curso_fundamentos_web_scraping/Notes/scr/ejemplo_wildcard_1.png)
+![Ejemplo](scr/ejemplo_wildcard_1.png)
 
 - Ejemplo de uso de `node()`:
 
-![Ejemplo](curso_fundamentos_web_scraping/Notes/scr/ejemplo_wildcard_2.png)
+![Ejemplo](scr/ejemplo_wildcard_2.png)
